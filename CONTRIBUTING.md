@@ -5,7 +5,7 @@ Thanks for showing interest and helping out 🤙🏾
 ## Follow these steps
 
 0. Fork this repo
-1. Open the repo in code editor
+1. Open the repo in your code editor
 2. Copy and paste the last line
 3. Change the name of the channel by the one you want to add
 4. Also replace the channel link
