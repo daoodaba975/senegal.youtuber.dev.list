@@ -10,6 +10,6 @@ Thanks for showing interest and helping out 🤙🏾
 3. Change the name of the channel by the one you want to add
 4. Also replace the channel link
 5. Commit your changes to your **fork** of this repo
-6. Send a **PR** that contains detailed information about your change
+6. Send a **Pull Request** that contains detailed information about your change
 7. I'll review it, and decide whether it should be merged
 8. You're done
