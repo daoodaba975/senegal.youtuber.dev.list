@@ -19,6 +19,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Mouhamed Thiam](https://www.youtube.com/channel/UCFp5f1TxumMV3g4H2lirYaA)**
 * **[Mouhamadou Der](https://www.youtube.com/user/derkhadim)**
 * **[Ngor Seck](https://www.youtube.com/channel/UCju7C4DmUvrAzeAnTn-rCfw)**
+* **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 
 ### Others 📁
