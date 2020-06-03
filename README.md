@@ -15,6 +15,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
 * **[Hassane Moustapha](https://www.youtube.com/user/MrHkairi)**
 * **[James Kokou GAGLO](https://www.youtube.com/channel/UCLf28QwKUmINeUqjxR3bK0w)**
+* **[JeCode](https://www.youtube.com/channel/UChazX8d8twXQZ21MpxoHRBA)**
 * **[Mouhamed aly SIDIBE](https://www.youtube.com/channel/UC-Rak9WhKgjARd5NwyYzdlQ)**
 * **[Mouhamed Thiam](https://www.youtube.com/channel/UCFp5f1TxumMV3g4H2lirYaA)**
 * **[Mouhamadou Der](https://www.youtube.com/user/derkhadim)**
