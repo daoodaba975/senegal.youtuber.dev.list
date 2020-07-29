@@ -29,8 +29,10 @@ A list of Senegalese development channels on YouTube. These include web developm
 > Other channel talking about IT, security, IOT etc...
 
 * **[Aboulaye LY Le berger](https://www.youtube.com/channel/UCLJce0Zphs61fmjQfVI4rlw)**
+* **[Baye One](https://www.youtube.com/channel/UCCQ2nMBMxdaQ0qjSBl9vj5A)**
 * **[Bloc-Techno](https://www.youtube.com/user/ThePipa00)**
 * **[Cyber 221](https://www.youtube.com/channel/UCdc-nYql6rLRauKb8BXQkHw)**
+* **[Dudutech](https://www.youtube.com/channel/UCAxIyfPFUcfzTe-SQ_QPX6g)**
 * **[iFlab](https://www.youtube.com/channel/UCgQa4dk7EsH937CT3wOodWQ)**
 * **[Niou Jang Informatique](https://www.youtube.com/channel/UCTweGeIUC_RLBB5HZMheXUA)**
 * **[Sunu Security](https://www.youtube.com/channel/UCMGNNtDYQUjVGKKVyTdpgsQ)**
