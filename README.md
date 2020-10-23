@@ -23,7 +23,6 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Mouhamadou Der](https://www.youtube.com/user/derkhadim)**
 * **[Ngor Seck](https://www.youtube.com/channel/UCju7C4DmUvrAzeAnTn-rCfw)**
 * **[Orbit Turner](https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg)**
-* **[Productive On Mac](https://www.youtube.com/channel/UC_kwMczpaKVu2pG0JZJORQw)**
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 
 ### Others 📁
@@ -38,6 +37,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Dudutech](https://www.youtube.com/channel/UCAxIyfPFUcfzTe-SQ_QPX6g)**
 * **[iFlab](https://www.youtube.com/channel/UCgQa4dk7EsH937CT3wOodWQ)**
 * **[Niou Jang Informatique](https://www.youtube.com/channel/UCTweGeIUC_RLBB5HZMheXUA)**
+* **[Productive On Mac](https://www.youtube.com/channel/UC_kwMczpaKVu2pG0JZJORQw)**
 * **[Sunu Security](https://www.youtube.com/channel/UCMGNNtDYQUjVGKKVyTdpgsQ)**
 
 #### Contributing 🌍
