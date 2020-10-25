@@ -10,6 +10,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Ady Ngom](https://www.youtube.com/user/adytouba)**
 * **[ApprenTech](https://www.youtube.com/channel/UCE_ZKSHpebKvh6uEzkRW9FQ)**
 * **[baayibou](https://www.youtube.com/channel/UCVKTpAvflvMr379LVBfs82A)**
+* **[BabaScience SN](https://www.youtube.com/channel/UCJyVQanD7cg4uB5ngcUls3Q)**
 * **[Cheikh TK](https://www.youtube.com/channel/UCFbdlx44JOBDh41-ruUb0Eg)**
 * **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
