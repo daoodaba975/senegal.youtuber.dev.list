@@ -8,12 +8,14 @@ A list of Senegalese development channels on YouTube. These include web developm
 
 * **[aCAN Mentor](https://www.youtube.com/channel/UCNLda7VaWLfKrPA4uunFVjg)**
 * **[Ady Ngom](https://www.youtube.com/user/adytouba)**
-* **[ApprenTech](https://www.youtube.com/channel/UCE_ZKSHpebKvh6uEzkRW9FQ)**
+* **[ApprenTech Academy](https://www.youtube.com/channel/UCE_ZKSHpebKvh6uEzkRW9FQ)**
 * **[baayibou](https://www.youtube.com/channel/UCVKTpAvflvMr379LVBfs82A)**
 * **[BabaScience SN](https://www.youtube.com/channel/UCJyVQanD7cg4uB5ngcUls3Q)**
 * **[Cheikh TK](https://www.youtube.com/channel/UCFbdlx44JOBDh41-ruUb0Eg)**
+* **[Cherif 2.0](https://www.youtube.com/channel/UCd8enJR1ij-dPxp_HWV793Q)**
 * **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
+* **[Learn Programming](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
 * **[Galsen Coding](https://www.youtube.com/channel/UCIoT3bVjxrzHmwV9jW9KXgg)**
 * **[Galsen Dev](https://www.youtube.com/channel/UCw0TqM96VksbRMgcafdUVSQ)**
 * **[Hassane Moustapha](https://www.youtube.com/user/MrHkairi)**
@@ -25,7 +27,8 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Mouhamadou Der](https://www.youtube.com/user/derkhadim)**
 * **[Ngor Seck](https://www.youtube.com/channel/UCju7C4DmUvrAzeAnTn-rCfw)**
 * **[Orbit Turner](https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg)**
-* **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
+* **[Xarala Academy (old channel)](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
+* **[Xarala Academy (new channel)](https://www.youtube.com/channel/UCWLAHExZZ7j0c97w5RJdO7Q)**
 
 ### Others 📁
 
@@ -41,6 +44,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Niou Jang Informatique](https://www.youtube.com/channel/UCTweGeIUC_RLBB5HZMheXUA)**
 * **[Productive On Mac](https://www.youtube.com/channel/UC_kwMczpaKVu2pG0JZJORQw)**
 * **[Sunu Security](https://www.youtube.com/channel/UCMGNNtDYQUjVGKKVyTdpgsQ)**
+* **[WAXTAL](https://www.youtube.com/channel/UC48BFV04wmJvWlV2tJFBPmg)**
 
 #### Contributing 🌍
 
