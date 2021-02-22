@@ -40,6 +40,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Cyber 221](https://www.youtube.com/channel/UCdc-nYql6rLRauKb8BXQkHw)**
 * **[Daara Tech](https://www.youtube.com/channel/UCQqh9hrCnwGIsojzFnbDBvw)**
 * **[Diago Ibrahima](https://www.youtube.com/channel/UCSgQIvviSJxLwGPS3sgcnlA)**
+* **[djolof design](https://www.youtube.com/channel/UCtBzQ5rG7XNUSJMocHdFwBw)**
 * **[Dudutech](https://www.youtube.com/channel/UCAxIyfPFUcfzTe-SQ_QPX6g)**
 * **[iFlab](https://www.youtube.com/channel/UCgQa4dk7EsH937CT3wOodWQ)**
 * **[NG ADY](https://www.youtube.com/c/NGADYLIGHTINTHEDARK)**
