@@ -27,6 +27,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Mouhamadou Der](https://www.youtube.com/user/derkhadim)**
 * **[Ngor Seck](https://www.youtube.com/channel/UCju7C4DmUvrAzeAnTn-rCfw)**
 * **[Orbit Turner](https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg)**
+* **[Rootech SN](https://www.youtube.com/channel/UCl076vudXmR3sieSXkNGbuQ)**
 * **[Xarala Academy (old channel)](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 * **[Xarala Academy (new channel)](https://www.youtube.com/channel/UCWLAHExZZ7j0c97w5RJdO7Q)**
 
@@ -34,9 +35,11 @@ A list of Senegalese development channels on YouTube. These include web developm
 
 > Other channel talking about IT, security, IOT etc...
 
+* **[ABDOU WORE NGOM](https://www.youtube.com/channel/UCTHrMbPLfAKXJuXu6Fo6jPA)**
 * **[Aboulaye LY Le berger](https://www.youtube.com/channel/UCLJce0Zphs61fmjQfVI4rlw)**
 * **[Baye One](https://www.youtube.com/channel/UCCQ2nMBMxdaQ0qjSBl9vj5A)**
 * **[Bloc-Techno](https://www.youtube.com/user/ThePipa00)**
+* **[CTGHT](https://www.youtube.com/channel/UC3hMi4RpRL0RiukAiIHuWKw)**
 * **[Cyber 221](https://www.youtube.com/channel/UCdc-nYql6rLRauKb8BXQkHw)**
 * **[Daara Tech](https://www.youtube.com/channel/UCQqh9hrCnwGIsojzFnbDBvw)**
 * **[Diago Ibrahima](https://www.youtube.com/channel/UCSgQIvviSJxLwGPS3sgcnlA)**
