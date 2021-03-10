@@ -47,6 +47,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Dudutech](https://www.youtube.com/channel/UCAxIyfPFUcfzTe-SQ_QPX6g)**
 * **[iFlab](https://www.youtube.com/channel/UCgQa4dk7EsH937CT3wOodWQ)**
 * **[NG ADY](https://www.youtube.com/c/NGADYLIGHTINTHEDARK)**
+* **[Ng_xcv](https://www.youtube.com/c/Ngxcv)**
 * **[Niou Jang Informatique](https://www.youtube.com/channel/UCTweGeIUC_RLBB5HZMheXUA)**
 * **[Productive On Mac](https://www.youtube.com/channel/UC_kwMczpaKVu2pG0JZJORQw)**
 * **[Sunu Security](https://www.youtube.com/channel/UCMGNNtDYQUjVGKKVyTdpgsQ)**
