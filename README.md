@@ -15,7 +15,6 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Cherif 2.0](https://www.youtube.com/channel/UCd8enJR1ij-dPxp_HWV793Q)**
 * **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
-* **[Learn Programming](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
 * **[Galsen Coding](https://www.youtube.com/channel/UCIoT3bVjxrzHmwV9jW9KXgg)**
 * **[Galsen Dev](https://www.youtube.com/channel/UCw0TqM96VksbRMgcafdUVSQ)**
 * **[Hassane Moustapha](https://www.youtube.com/user/MrHkairi)**
@@ -28,8 +27,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Ngor Seck](https://www.youtube.com/channel/UCju7C4DmUvrAzeAnTn-rCfw)**
 * **[Orbit Turner](https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg)**
 * **[Rootech SN](https://www.youtube.com/channel/UCl076vudXmR3sieSXkNGbuQ)**
-* **[Xarala Academy (old channel)](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
-* **[Xarala Academy (new channel)](https://www.youtube.com/channel/UCWLAHExZZ7j0c97w5RJdO7Q)**
+* **[Sen Dev Tech](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
 
 ### Others 📁
 
