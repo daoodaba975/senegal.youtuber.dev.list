@@ -31,6 +31,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Sen Dev Tech](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 * **[Xarala Academy 2](https://www.youtube.com/channel/UCWLAHExZZ7j0c97w5RJdO7Q)**
+* **[Yeewu Jotna](https://www.youtube.com/channel/UCsKRlUJFd29M2ouZm7zdMkQ)**
 
 ### Others 📁
 
