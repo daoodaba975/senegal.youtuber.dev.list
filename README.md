@@ -38,22 +38,22 @@ A list of Senegalese development channels on YouTube. These include web developm
 > Other channel talking about IT, security, IOT etc...
 
 * **[ABDOU WORE NGOM](https://www.youtube.com/channel/UCTHrMbPLfAKXJuXu6Fo6jPA)**
-* **[Aboulaye LY Le berger](https://www.youtube.com/channel/UCLJce0Zphs61fmjQfVI4rlw)**
 * **[Baye One](https://www.youtube.com/channel/UCCQ2nMBMxdaQ0qjSBl9vj5A)**
 * **[Bloc-Techno](https://www.youtube.com/user/ThePipa00)**
 * **[CTGHT](https://www.youtube.com/channel/UC3hMi4RpRL0RiukAiIHuWKw)**
 * **[Cyber 221](https://www.youtube.com/channel/UCdc-nYql6rLRauKb8BXQkHw)**
 * **[Daara Tech](https://www.youtube.com/channel/UCQqh9hrCnwGIsojzFnbDBvw)**
-* **[Diago Ibrahima](https://www.youtube.com/channel/UCSgQIvviSJxLwGPS3sgcnlA)**
 * **[djolof design](https://www.youtube.com/channel/UCtBzQ5rG7XNUSJMocHdFwBw)**
 * **[Dudutech](https://www.youtube.com/channel/UCAxIyfPFUcfzTe-SQ_QPX6g)**
-* **[iFlab](https://www.youtube.com/channel/UCgQa4dk7EsH937CT3wOodWQ)**
+* **[Axonile](https://www.youtube.com/channel/UCgQa4dk7EsH937CT3wOodWQ)**
+* **[Le Berger Hitech](https://www.youtube.com/channel/UCLJce0Zphs61fmjQfVI4rlw)**
 * **[NG ADY](https://www.youtube.com/c/NGADYLIGHTINTHEDARK)**
 * **[Ng_xcv](https://www.youtube.com/c/Ngxcv)**
 * **[Niou Jang Informatique](https://www.youtube.com/channel/UCTweGeIUC_RLBB5HZMheXUA)**
 * **[Productive On Mac](https://www.youtube.com/channel/UC_kwMczpaKVu2pG0JZJORQw)**
 * **[Sunu Security](https://www.youtube.com/channel/UCMGNNtDYQUjVGKKVyTdpgsQ)**
 * **[WAXTAL](https://www.youtube.com/channel/UC48BFV04wmJvWlV2tJFBPmg)**
+* **[WOLOF TECH](https://www.youtube.com/channel/UCSgQIvviSJxLwGPS3sgcnlA)**
 
 #### Contributing 🌍
 
