@@ -28,6 +28,8 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Orbit Turner](https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg)**
 * **[Rootech SN](https://www.youtube.com/channel/UCl076vudXmR3sieSXkNGbuQ)**
 * **[Sen Dev Tech](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
+* **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
+* **[Xarala Academy 2](https://www.youtube.com/channel/UCWLAHExZZ7j0c97w5RJdO7Q)**
 
 ### Others 📁
 
