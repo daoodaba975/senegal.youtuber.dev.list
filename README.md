@@ -19,7 +19,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
 * **[LDab Dev](https://www.youtube.com/channel/UC_AgOX-dhj6mEKhSOHPW_lg)**
-* **[Léger Djiba](https://www.youtube.com/c/L%C3%A9gerDjiba)**
+* **[Lebou Ndiaye Dieye](https://www.youtube.com/channel/UCn_LC-9362ASoClVkJqw8rA)**
 * **[Galsen Coding](https://www.youtube.com/channel/UCIoT3bVjxrzHmwV9jW9KXgg)**
 * **[Galsen Dev](https://www.youtube.com/channel/UCw0TqM96VksbRMgcafdUVSQ)**
 * **[Hassane Moustapha](https://www.youtube.com/user/MrHkairi)**
