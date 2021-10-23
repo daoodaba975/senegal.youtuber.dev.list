@@ -11,6 +11,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[ApprenTech Academy](https://www.youtube.com/channel/UCE_ZKSHpebKvh6uEzkRW9FQ)**
 * **[baayibou](https://www.youtube.com/channel/UCVKTpAvflvMr379LVBfs82A)**
 * **[BabaScience SN](https://www.youtube.com/channel/UCJyVQanD7cg4uB5ngcUls3Q)**
+* **[Bhr_Pro](https://www.youtube.com/channel/UC2S0tnDYFV-bKje5-vLfejQ)**
 * **[Cheikh TK](https://www.youtube.com/channel/UCFbdlx44JOBDh41-ruUb0Eg)**
 * **[Cherif 2.0](https://www.youtube.com/channel/UCd8enJR1ij-dPxp_HWV793Q)**
 * **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
