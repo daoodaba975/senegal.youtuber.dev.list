@@ -11,9 +11,11 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[ApprenTech Academy](https://www.youtube.com/channel/UCE_ZKSHpebKvh6uEzkRW9FQ)**
 * **[baayibou](https://www.youtube.com/channel/UCVKTpAvflvMr379LVBfs82A)**
 * **[BabaScience SN](https://www.youtube.com/channel/UCJyVQanD7cg4uB5ngcUls3Q)**
+* **[By Fall code](https://www.youtube.com/channel/UCWspKzgH9P4fY_XempTAM0w)**
 * **[Bhr_Pro](https://www.youtube.com/channel/UC2S0tnDYFV-bKje5-vLfejQ)**
 * **[Cheikh TK](https://www.youtube.com/channel/UCFbdlx44JOBDh41-ruUb0Eg)**
 * **[Cherif 2.0](https://www.youtube.com/channel/UCd8enJR1ij-dPxp_HWV793Q)**
+* **[INFORMATIQUE CHEZ VOUS](https://www.youtube.com/channel/UChsYRzWIw3tWBFD2hN7tqAA)**
 * **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
 * **[LDab Dev](https://www.youtube.com/channel/UC_AgOX-dhj6mEKhSOHPW_lg)**
@@ -22,6 +24,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Galsen Dev](https://www.youtube.com/channel/UCw0TqM96VksbRMgcafdUVSQ)**
 * **[Hassane Moustapha](https://www.youtube.com/user/MrHkairi)**
 * **[James Kokou GAGLO](https://www.youtube.com/channel/UCLf28QwKUmINeUqjxR3bK0w)**
+* **[LES TEACHERS DU NET](https://www.youtube.com/c/Teachersdunet)**
 * **[JeCode](https://www.youtube.com/channel/UChazX8d8twXQZ21MpxoHRBA)**
 * **[MADD AI](https://www.youtube.com/channel/UCA-if5ueDAWvtZ161CH8yzQ)**
 * **[Mouhamed aly SIDIBE](https://www.youtube.com/channel/UC-Rak9WhKgjARd5NwyYzdlQ)**
@@ -31,6 +34,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Orbit Turner](https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg)**
 * **[Rootech SN](https://www.youtube.com/channel/UCl076vudXmR3sieSXkNGbuQ)**
 * **[Sen Dev Tech](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
+* **[Vitrine Virtuelle](https://www.youtube.com/channel/UCudt7wMkBIhojy7h9wSxBQw)**
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 * **[Xarala Academy 2](https://www.youtube.com/channel/UCWLAHExZZ7j0c97w5RJdO7Q)**
 * **[Yeewu Jotna](https://www.youtube.com/channel/UCsKRlUJFd29M2ouZm7zdMkQ)**
