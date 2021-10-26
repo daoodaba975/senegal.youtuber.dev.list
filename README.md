@@ -52,9 +52,11 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Daara Tech](https://www.youtube.com/channel/UCQqh9hrCnwGIsojzFnbDBvw)**
 * **[djolof design](https://www.youtube.com/channel/UCtBzQ5rG7XNUSJMocHdFwBw)**
 * **[Dudutech](https://www.youtube.com/channel/UCAxIyfPFUcfzTe-SQ_QPX6g)**
+* **[Galsen AI](https://www.youtube.com/channel/UCz3ZL9x0jxQNyis8Ss3Vz2Q)**
 * **[INFORMATIQUE CHEZ VOUS](https://www.youtube.com/channel/UChsYRzWIw3tWBFD2hN7tqAA)**
 * **[KING B Design](https://www.youtube.com/channel/UChGeLDi3yGILdUiWtWe3Sfg)**
 * **[Le Berger Hitech](https://www.youtube.com/channel/UCLJce0Zphs61fmjQfVI4rlw)**
+* **[Moustapha Fall](https://www.youtube.com/c/MoustaphaFalltaif)** 
 * **[NG ADY](https://www.youtube.com/c/NGADYLIGHTINTHEDARK)**
 * **[Ng_xcv](https://www.youtube.com/c/Ngxcv)**
 * **[Niou Jang Informatique](https://www.youtube.com/channel/UCTweGeIUC_RLBB5HZMheXUA)**
