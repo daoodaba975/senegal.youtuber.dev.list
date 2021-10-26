@@ -22,6 +22,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[LDab Dev](https://www.youtube.com/channel/UC_AgOX-dhj6mEKhSOHPW_lg)**
 * **[Léger Djiba](https://www.youtube.com/c/L%C3%A9gerDjiba)**
 * **[Lebou Ndiaye Dieye](https://www.youtube.com/channel/UCn_LC-9362ASoClVkJqw8rA)**
+* **[Galsen AI](https://www.youtube.com/channel/UCz3ZL9x0jxQNyis8Ss3Vz2Q)**
 * **[Galsen Coding](https://www.youtube.com/channel/UCIoT3bVjxrzHmwV9jW9KXgg)**
 * **[Galsen Dev](https://www.youtube.com/channel/UCw0TqM96VksbRMgcafdUVSQ)**
 * **[Hassane Moustapha](https://www.youtube.com/user/MrHkairi)**
@@ -38,7 +39,6 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 * **[Xarala Academy 2](https://www.youtube.com/channel/UCWLAHExZZ7j0c97w5RJdO7Q)**
 * **[Yeewu Jotna](https://www.youtube.com/channel/UCsKRlUJFd29M2ouZm7zdMkQ)**
-* **[DAKAR TECH](https://https://www.youtube.com/c/dakartech)**
 
 ### Others 📁
 
@@ -51,9 +51,9 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[CTGHT](https://www.youtube.com/channel/UC3hMi4RpRL0RiukAiIHuWKw)**
 * **[Cyber 221](https://www.youtube.com/channel/UCdc-nYql6rLRauKb8BXQkHw)**
 * **[Daara Tech](https://www.youtube.com/channel/UCQqh9hrCnwGIsojzFnbDBvw)**
+* **[DAKAR TECH](https://https://www.youtube.com/c/DAKARTECH)**
 * **[djolof design](https://www.youtube.com/channel/UCtBzQ5rG7XNUSJMocHdFwBw)**
 * **[Dudutech](https://www.youtube.com/channel/UCAxIyfPFUcfzTe-SQ_QPX6g)**
-* **[Galsen AI](https://www.youtube.com/channel/UCz3ZL9x0jxQNyis8Ss3Vz2Q)**
 * **[INFORMATIQUE CHEZ VOUS](https://www.youtube.com/channel/UChsYRzWIw3tWBFD2hN7tqAA)**
 * **[KING B Design](https://www.youtube.com/channel/UChGeLDi3yGILdUiWtWe3Sfg)**
 * **[Le Berger Hitech](https://www.youtube.com/channel/UCLJce0Zphs61fmjQfVI4rlw)**
