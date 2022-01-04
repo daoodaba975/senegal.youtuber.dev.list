@@ -2,6 +2,8 @@
 
 A list of Senegalese development channels on YouTube. These include web development, back-end development, front-end development, mobile development, AI and more!
 
+[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+
 ## Channel list ✔
 
 > These channels focus on tutorials and code.
