@@ -8,7 +8,6 @@ A list of Senegalese development channels on YouTube. These include web developm
 
 > These channels focus on tutorials and code.
 
-* **[aCAN Mentor](https://www.youtube.com/channel/UCNLda7VaWLfKrPA4uunFVjg)**
 * **[Ady Ngom](https://www.youtube.com/user/adytouba)**
 * **[ApprenTech Academy](https://www.youtube.com/channel/UCE_ZKSHpebKvh6uEzkRW9FQ)**
 * **[baayibou](https://www.youtube.com/channel/UCVKTpAvflvMr379LVBfs82A)**
@@ -40,6 +39,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Orbit Turner](https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg)**
 * **[Rootech SN](https://www.youtube.com/channel/UCl076vudXmR3sieSXkNGbuQ)**
 * **[Sen Dev Tech](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
+* **[Wolof Coder](https://www.youtube.com/channel/UCNLda7VaWLfKrPA4uunFVjg)**
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 * **[Xarala Academy 2](https://www.youtube.com/channel/UCWLAHExZZ7j0c97w5RJdO7Q)**
 * **[Yeewu Jotna](https://www.youtube.com/channel/UCsKRlUJFd29M2ouZm7zdMkQ)**
