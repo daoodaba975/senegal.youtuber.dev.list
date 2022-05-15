@@ -14,35 +14,34 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[BabaScience SN](https://www.youtube.com/channel/UCJyVQanD7cg4uB5ngcUls3Q)**
 * **[By Fall code](https://www.youtube.com/channel/UCWspKzgH9P4fY_XempTAM0w)**
 * **[Bhr_Pro](https://www.youtube.com/channel/UC2S0tnDYFV-bKje5-vLfejQ)**
-* **[Cheikh TK](https://www.youtube.com/channel/UCFbdlx44JOBDh41-ruUb0Eg)**
+* **[Bitcoin Sénégal](https://www.youtube.com/channel/UCsKRlUJFd29M2ouZm7zdMkQ)**
 * **[Cherif 2.0](https://www.youtube.com/channel/UCd8enJR1ij-dPxp_HWV793Q)**
-* **[chrislain developpeur](https://www.youtube.com/channel/UCM-4IXjiMp2UPI7cgwZ2qdQ)**
+* **[Chrislain Développeur](https://www.youtube.com/channel/UCM-4IXjiMp2UPI7cgwZ2qdQ)**
 * **[Dakar Bitcoin Developers](https://www.youtube.com/channel/UCD9Su78FrJIkvY6G1x9DHNA)**
 * **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
 * **[Darajischool](https://www.youtube.com/channel/UC6XaO383OyNhlm6Udzepjrw)**
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
-* **[FORMATEURS SA](https://www.youtube.com/channel/UCT2iQKpWGzgbpNjXenm2zow)**
+* **[Formateurs SA](https://www.youtube.com/channel/UCT2iQKpWGzgbpNjXenm2zow)**
 * **[LDab Dev](https://www.youtube.com/channel/UC_AgOX-dhj6mEKhSOHPW_lg)**
+* **[Lebou Ndiaye DIEYE](https://www.youtube.com/channel/UCn_LC-9362ASoClVkJqw8rA)**
 * **[Léger Djiba](https://www.youtube.com/c/L%C3%A9gerDjiba)**
-* **[Lebou Ndiaye Dieye](https://www.youtube.com/channel/UCn_LC-9362ASoClVkJqw8rA)**
 * **[Galsen AI](https://www.youtube.com/channel/UCz3ZL9x0jxQNyis8Ss3Vz2Q)**
 * **[Galsen Coding](https://www.youtube.com/channel/UCIoT3bVjxrzHmwV9jW9KXgg)**
-* **[Galsen Dev](https://www.youtube.com/channel/UCw0TqM96VksbRMgcafdUVSQ)**
+* **[Galsen DEV](https://www.youtube.com/channel/UCw0TqM96VksbRMgcafdUVSQ)**
 * **[Hassane Moustapha](https://www.youtube.com/user/MrHkairi)**
 * **[James Kokou GAGLO](https://www.youtube.com/channel/UCLf28QwKUmINeUqjxR3bK0w)**
-* **[JeCode](https://www.youtube.com/channel/UChazX8d8twXQZ21MpxoHRBA)**
+* **[Jangando Tech](https://www.youtube.com/channel/UCFbdlx44JOBDh41-ruUb0Eg)**
 * **[MADD AI](https://www.youtube.com/channel/UCA-if5ueDAWvtZ161CH8yzQ)**
 * **[Medteck Thiam](https://www.youtube.com/c/MohamedThiamHacker)**
-* **[Mouhamed aly SIDIBE](https://www.youtube.com/channel/UC-Rak9WhKgjARd5NwyYzdlQ)**
 * **[Mouhamadou Der](https://www.youtube.com/user/derkhadim)**
+* **[Mouhamed aly SIDIBE](https://www.youtube.com/channel/UC-Rak9WhKgjARd5NwyYzdlQ)**
 * **[Ngor Seck](https://www.youtube.com/channel/UCju7C4DmUvrAzeAnTn-rCfw)**
 * **[Orbit Turner](https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg)**
 * **[Rootech SN](https://www.youtube.com/channel/UCl076vudXmR3sieSXkNGbuQ)**
 * **[Sen Dev Tech](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
+* **[Tech Club](https://www.youtube.com/channel/UChazX8d8twXQZ21MpxoHRBA)**
 * **[Wolof Coder](https://www.youtube.com/channel/UCNLda7VaWLfKrPA4uunFVjg)**
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
-* **[Xarala Academy 2](https://www.youtube.com/channel/UCWLAHExZZ7j0c97w5RJdO7Q)**
-* **[Yeewu Jotna](https://www.youtube.com/channel/UCsKRlUJFd29M2ouZm7zdMkQ)**
 * **[Zlorg](https://www.youtube.com/channel/UCl88uiy7Aq6PpZOGcQVeZYg)**
 
 ### Others 📁
@@ -56,7 +55,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[CTGHT](https://www.youtube.com/channel/UC3hMi4RpRL0RiukAiIHuWKw)**
 * **[Cyber 221](https://www.youtube.com/channel/UCdc-nYql6rLRauKb8BXQkHw)**
 * **[Daara Tech](https://www.youtube.com/channel/UCQqh9hrCnwGIsojzFnbDBvw)**
-* **[DAKAR TECH](https://https://www.youtube.com/c/DAKARTECH)**
+* **[DAKAR TECH](https://www.youtube.com/c/DAKARTECH)**
 * **[djolof design](https://www.youtube.com/channel/UCtBzQ5rG7XNUSJMocHdFwBw)**
 * **[Dudutech](https://www.youtube.com/channel/UCAxIyfPFUcfzTe-SQ_QPX6g)**
 * **[INFORMATIQUE CHEZ VOUS](https://www.youtube.com/channel/UChsYRzWIw3tWBFD2hN7tqAA)**
@@ -65,7 +64,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Moustapha Fall](https://www.youtube.com/c/MoustaphaFalltaif)**
 * **[NG ADY](https://www.youtube.com/c/NGADYLIGHTINTHEDARK)**
 * **[Ng_xcv](https://www.youtube.com/c/Ngxcv)**
-* **[Niou Jang Informatique](https://www.youtube.com/channel/UCTweGeIUC_RLBB5HZMheXUA)**
+* **[Nu Jang Informatique](https://www.youtube.com/channel/UCTweGeIUC_RLBB5HZMheXUA)**
 * **[Productive On Mac](https://www.youtube.com/channel/UC_kwMczpaKVu2pG0JZJORQw)**
 * **[SEKANLIN PRINCIPE](https://www.youtube.com/channel/UCVgksjU-W1TcXA9ebbHGjZg)**
 * **[Sunu Security](https://www.youtube.com/channel/UCMGNNtDYQUjVGKKVyTdpgsQ)**
