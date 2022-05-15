@@ -40,6 +40,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Rootech SN](https://www.youtube.com/channel/UCl076vudXmR3sieSXkNGbuQ)**
 * **[Sen Dev Tech](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
 * **[Tech Club](https://www.youtube.com/channel/UChazX8d8twXQZ21MpxoHRBA)**
+* **[Weekode](https://www.youtube.com/channel/UCdrE_GITrhALX6Bo523NfKw/featured)**
 * **[Wolof Coder](https://www.youtube.com/channel/UCNLda7VaWLfKrPA4uunFVjg)**
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 * **[Zlorg](https://www.youtube.com/channel/UCl88uiy7Aq6PpZOGcQVeZYg)**
