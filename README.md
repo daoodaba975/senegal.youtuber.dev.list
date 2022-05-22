@@ -22,6 +22,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Darajischool](https://www.youtube.com/channel/UC6XaO383OyNhlm6Udzepjrw)**
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
 * **[Formateurs SA](https://www.youtube.com/channel/UCT2iQKpWGzgbpNjXenm2zow)**
+* **[KayDev-221](https://www.youtube.com/channel/UC8qjiBAgpyxgU6iUpPyxWrQ)**
 * **[LDab Dev](https://www.youtube.com/channel/UC_AgOX-dhj6mEKhSOHPW_lg)**
 * **[Lebou Ndiaye DIEYE](https://www.youtube.com/channel/UCn_LC-9362ASoClVkJqw8rA)**
 * **[Léger Djiba](https://www.youtube.com/c/L%C3%A9gerDjiba)**
