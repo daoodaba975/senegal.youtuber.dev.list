@@ -41,6 +41,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[RED Team Bakeli](https://www.youtube.com/@redteambakeli)**
 * **[Rootech SN](https://www.youtube.com/channel/UCl076vudXmR3sieSXkNGbuQ)**
 * **[Sen Dev Tech](https://www.youtube.com/channel/UC6yN8ebtKOgFlBbYQJQN1DA)**
+* **[SibyTech](https://www.youtube.com/channel/UC-Wk8W4Bak_K3ffiY83OOmg)**
 * **[Tech Club](https://www.youtube.com/channel/UChazX8d8twXQZ21MpxoHRBA)**
 * **[Weekode](https://www.youtube.com/channel/UCdrE_GITrhALX6Bo523NfKw/featured)**
 * **[Wolof Coder](https://www.youtube.com/channel/UCNLda7VaWLfKrPA4uunFVjg)**
