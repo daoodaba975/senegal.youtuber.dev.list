@@ -19,6 +19,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Chrislain Développeur](https://www.youtube.com/channel/UCM-4IXjiMp2UPI7cgwZ2qdQ)**
 * **[Dakar Bitcoin Developers](https://www.youtube.com/channel/UCD9Su78FrJIkvY6G1x9DHNA)**
 * **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
+* **[Daaray Technologie](https://www.youtube.com/@daaraytechnologie2900)**
 * **[Darajischool](https://www.youtube.com/channel/UC6XaO383OyNhlm6Udzepjrw)**
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
 * **[Formateurs SA](https://www.youtube.com/channel/UCT2iQKpWGzgbpNjXenm2zow)**
