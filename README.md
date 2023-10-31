@@ -48,6 +48,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Wolof Coder](https://www.youtube.com/channel/UCNLda7VaWLfKrPA4uunFVjg)**
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 * **[Zlorg](https://www.youtube.com/channel/UCl88uiy7Aq6PpZOGcQVeZYg)**
+* **[Zo Kandji](https://www.youtube.com/@zokandji)**
 
 ### Others 📁
 
