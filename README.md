@@ -72,6 +72,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Ng_xcv](https://www.youtube.com/c/Ngxcv)**
 * **[Nu Jang Informatique](https://www.youtube.com/channel/UCTweGeIUC_RLBB5HZMheXUA)**
 * **[Productive On Mac](https://www.youtube.com/channel/UC_kwMczpaKVu2pG0JZJORQw)**
+* **[RootSn](https://www.youtube.com/@rootsn4889)**
 * **[Seck Conseil Et Services](https://www.youtube.com/@seckconseiletservices8655)**
 * **[SEKANLIN PRINCIPE](https://www.youtube.com/channel/UCVgksjU-W1TcXA9ebbHGjZg)**
 * **[Sunu Security](https://www.youtube.com/channel/UCMGNNtDYQUjVGKKVyTdpgsQ)**
