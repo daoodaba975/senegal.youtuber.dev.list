@@ -77,7 +77,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Vitrine Virtuelle](https://www.youtube.com/channel/UCudt7wMkBIhojy7h9wSxBQw)**
 * **[WAXTAL](https://www.youtube.com/channel/UC48BFV04wmJvWlV2tJFBPmg)**
 * **[WOLOF TECH](https://www.youtube.com/channel/UCSgQIvviSJxLwGPS3sgcnlA)**
-* **[MOUHAMED GUEYE](https://www.youtube.com/@OrbitTurner)**
+* **[Seck Conseil Et Services](https://www.youtube.com/@seckconseiletservices8655)**
 
 #### Contributing 🌍
 
