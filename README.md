@@ -21,6 +21,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Dakar Bitcoin Developers](https://www.youtube.com/channel/UCD9Su78FrJIkvY6G1x9DHNA)**
 * **[Dakar RUBY](https://www.youtube.com/channel/UCcG2adsEO9uBxFye3ZS6qrw)**
 * **[Darajischool](https://www.youtube.com/channel/UC6XaO383OyNhlm6Udzepjrw)**
+* **[Devcodewriter](https://www.youtube.com/@devcodewriter)**
 * **[Elias W. BA](https://www.youtube.com/channel/UCHJfgo-twozt9nNq0XplU_g)**
 * **[Formateurs SA](https://www.youtube.com/channel/UCT2iQKpWGzgbpNjXenm2zow)**
 * **[KayDev-221](https://www.youtube.com/channel/UC8qjiBAgpyxgU6iUpPyxWrQ)**
@@ -48,6 +49,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Wolof Coder](https://www.youtube.com/channel/UCNLda7VaWLfKrPA4uunFVjg)**
 * **[Xarala Academy](https://www.youtube.com/channel/UCtzF4GCqstzrc6UWUNjlQiQ)**
 * **[Zlorg](https://www.youtube.com/channel/UCl88uiy7Aq6PpZOGcQVeZYg)**
+
 
 ### Others 📁
 
