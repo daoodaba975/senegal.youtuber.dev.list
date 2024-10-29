@@ -57,6 +57,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Axonile](https://www.youtube.com/channel/UCgQa4dk7EsH937CT3wOodWQ)**
 * **[Baye One](https://www.youtube.com/channel/UCCQ2nMBMxdaQ0qjSBl9vj5A)**
 * **[Bloc-Techno](https://www.youtube.com/user/ThePipa00)**
+* **[Club informatique de Guediawaye](https://www.youtube.com/@cigguediawaye)**
 * **[CTGHT](https://www.youtube.com/channel/UC3hMi4RpRL0RiukAiIHuWKw)**
 * **[Cyber 221](https://www.youtube.com/channel/UCdc-nYql6rLRauKb8BXQkHw)**
 * **[Daara Tech](https://www.youtube.com/channel/UCQqh9hrCnwGIsojzFnbDBvw)**
@@ -86,5 +87,3 @@ A list of Senegalese development channels on YouTube. These include web developm
 Do you have a YouTube channel or do you know one🤔, so why not add it.
 
 Also, you might want to check out the **[Contributing Guide](https://github.com/daoodaba975/senegal-YouTuber-Dev-List/blob/master/CONTRIBUTING.md)** 🤝🏾
-
-* ***[Club informatique de Guediawaye ](https://www.youtube.com/@cigguediawaye)*
