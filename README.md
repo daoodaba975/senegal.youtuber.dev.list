@@ -86,3 +86,5 @@ A list of Senegalese development channels on YouTube. These include web developm
 Do you have a YouTube channel or do you know one🤔, so why not add it.
 
 Also, you might want to check out the **[Contributing Guide](https://github.com/daoodaba975/senegal-YouTuber-Dev-List/blob/master/CONTRIBUTING.md)** 🤝🏾
+
+* ***[Club informatique de Guediawaye ](https://www.youtube.com/@cigguediawaye)*
