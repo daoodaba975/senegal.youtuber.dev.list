@@ -29,6 +29,8 @@ Before starting check if the channel you want to add already exists on the list,
 ```
 4. Ensure channels are in alphabetical order
 5. Create a pull request
+6. I'll review it, and decide whether it should be merged
+7. You're done
 
 ------------------------------------------------------------------------------------------------
 ## Français
@@ -62,3 +64,5 @@ Avant de commencer, vérifiez si la chaîne que vous souhaitez ajouter existe d�
 ```
 4. Assurez-vous que les chaînes sont en ordre alphabétique
 5. Créez une pull request
+6. Je vais l'examiner et décider s'il doit être fusionné
+7. Vous avez terminé
