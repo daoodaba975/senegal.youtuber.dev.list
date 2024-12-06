@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chaînes YouTube Dev Sénégalaises</title>
+    <link href="./style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-800 min-h-screen dark:text-white transition-colors duration-200">
+    <nav class="bg-white dark:bg-gray-800 shadow-sm sticky top-0 z-50 transition-colors duration-200">
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex justify-between items-center">
+                <div class="flex items-center space-x-2">
+                    <img src="https://raw.githubusercontent.com/GalsenDev221/made.in.senegal/master/assets/badge.svg" 
+                         alt="Made in Senegal" 
+                         class="h-8">
+                    <span class="font-bold text-xl text-gray-800 dark:text-white">SenDevTube</span>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <button id="themeToggle" 
+                            class="w-10 h-10 p-2 rounded-lg bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors duration-200 flex items-center justify-center focus:outline-none focus:ring-2 focus:ring-green-500"
+                            aria-label="Toggle theme">
+                        <i id="moonIcon" class="fas fa-moon text-gray-600 dark:text-gray-300 text-lg"></i>
+                        <i id="sunIcon" class="fas fa-sun text-yellow-500 hidden text-lg"></i>
+                    </button>
+                    <a href="https://github.com/daoodaba975/senegal-YouTuber-Dev-List" 
+                       class="bg-gray-900 dark:bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-800 dark:hover:bg-gray-600 transition-colors duration-200 flex items-center space-x-2">
+                        <i class="fab fa-github"></i>
+                        <span class="hidden sm:inline">GitHub</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <header class="bg-gradient-to-r from-green-600 to-green-500 dark:from-green-700 dark:to-green-600 text-white py-16 transition-colors duration-200">
+        <div class="container mx-auto px-4">
+            <h1 class="text-4xl md:text-5xl font-bold text-center mb-6 animate-fade-in">
+                Chaînes YouTube Dev Sénégalaises 📺
+            </h1>
+            <p class="text-center text-lg md:text-xl opacity-90 max-w-2xl mx-auto">
+                Découvrez une collection soigneusement sélectionnée de chaînes YouTube 
+                dédiées au développement et à la technologie au Sénégal.
+            </p>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 py-12">
+        <div class="relative mb-12">
+            <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                <i class="fas fa-search text-gray-400"></i>
+            </div>
+            <input type="text" 
+                   id="searchInput" 
+                   placeholder="Rechercher une chaîne..." 
+                   class="w-full pl-10 pr-4 py-3 rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white focus:ring-2 focus:ring-green-500 focus:border-transparent shadow-sm transition-all duration-200">
+        </div>
+
+        <div class="grid grid-cols-1 gap-8">
+            <section class="bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden">
+                <div class="bg-gradient-to-r from-green-600 to-green-500 dark:from-green-700 dark:to-green-600 px-6 py-4">
+                    <h2 class="text-2xl font-bold text-white flex items-center space-x-2">
+                        <i class="fas fa-code"></i>
+                        <span>Chaînes de Développement</span>
+                    </h2>
+                </div>
+                <div id="devChannels" class="p-6"></div>
+            </section>
+
+            <section class="bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden">
+                <div class="bg-gradient-to-r from-blue-600 to-blue-500 dark:from-blue-700 dark:to-blue-600 px-6 py-4">
+                    <h2 class="text-2xl font-bold text-white flex items-center space-x-2">
+                        <i class="fas fa-laptop-code"></i>
+                        <span>Autres Chaînes Tech</span>
+                    </h2>
+                </div>
+                <div id="otherChannels" class="p-6"></div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="bg-gray-900 dark:bg-gray-950 text-white py-12 mt-16 transition-colors duration-200">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
+                <div>
+                    <h3 class="text-xl font-bold mb-4">À propos</h3>
+                    <p class="text-gray-400">
+                        Une initiative pour promouvoir et centraliser les ressources 
+                        d'apprentissage tech créées par la communauté sénégalaise.
+                    </p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-bold mb-4">Contribuer</h3>
+                    <p class="text-gray-400">
+                        Vous connaissez une chaîne qui devrait être listée ? 
+                        N'hésitez pas à contribuer sur GitHub !
+                    </p>
+                </div>
+            </div>
+            <div class="border-t border-gray-800 pt-8 text-center">
+                <p class="text-gray-400">Made with ❤️ for the Senegalese Tech Community</p>
+                <div class="mt-4 space-x-4">
+                    <a href="https://github.com/daoodaba975/senegal-YouTuber-Dev-List" 
+                       class="text-gray-400 hover:text-white transition-colors duration-200">
+                        <i class="fab fa-github text-2xl"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script type="module" src="./js/main.js"></script>
+    <script type="module" src="./js/utils/search.js"></script>
+</body>
+</html>
