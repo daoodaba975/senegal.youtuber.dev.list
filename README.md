@@ -38,6 +38,7 @@ A list of Senegalese development channels on YouTube. These include web developm
 * **[Medteck Thiam](https://www.youtube.com/c/MohamedThiamHacker)**
 * **[Mouhamadou Der](https://www.youtube.com/user/derkhadim)**
 * **[Mouhamed aly SIDIBE](https://www.youtube.com/channel/UC-Rak9WhKgjARd5NwyYzdlQ)**
+* **[MXR CODES](https://www.youtube.com/@mxr_codes)**
 * **[Ngor Seck](https://www.youtube.com/channel/UCju7C4DmUvrAzeAnTn-rCfw)**
 * **[Orbit Turner](https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg)**
 * **[RED Team Bakeli](https://www.youtube.com/@redteambakeli)**
