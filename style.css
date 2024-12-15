@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+    animation: fadeIn 0.6s ease-out forwards;
+}
+
+.channel-link {
+    @apply flex items-center space-x-3 p-4 rounded-lg hover:bg-gray-50 transition-all duration-200 border border-transparent hover:border-gray-200;
+}
+
+.channel-link::before {
+    content: '';
+    @apply w-2 h-2 bg-gray-300 rounded-full transition-all duration-200;
+}
+
+.channel-link:hover::before {
+    @apply bg-green-500;
+}
+
+.channel-link:hover {
+    @apply shadow-sm transform translate-x-1;
+}
+
+#searchInput::placeholder {
+    @apply text-gray-400;
+}
+
+.section-card {
+    @apply bg-white rounded-xl shadow-lg overflow-hidden;
+    transform: translateY(0);
+    transition: all 0.3s ease;
+}
+
+.section-card:hover {
+    transform: translateY(-5px);
+    @apply shadow-xl;
+}
+
+#themeToggle {
+    @apply touch-manipulation;
+}
+
+@media (hover: none) {
+    #themeToggle:active {
+        @apply bg-gray-200 dark:bg-gray-600;
+    }
+}
