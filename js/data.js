@@ -30,6 +30,7 @@ export const channels = {
         { name: "Medteck Thiam", url: "https://www.youtube.com/c/MohamedThiamHacker" },
         { name: "Mouhamadou Der", url: "https://www.youtube.com/user/derkhadim" },
         { name: "Mouhamed aly SIDIBE", url: "https://www.youtube.com/channel/UC-Rak9WhKgjARd5NwyYzdlQ" },
+        { name: "MXR CODES", url: "https://www.youtube.com/@mxr_codes" },
         { name: "Ngor Seck", url: "https://www.youtube.com/channel/UCju7C4DmUvrAzeAnTn-rCfw" },
         { name: "Orbit Turner", url: "https://www.youtube.com/channel/UC2Y1r60Mh_IWZGoIC_8rDhg" },
         { name: "RED Team Bakeli", url: "https://www.youtube.com/@redteambakeli" },
