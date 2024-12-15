@@ -1,4 +1,4 @@
-# SenDevTube 🇸🇳
+# List of Senegalese development YouTube channels 📺
 
 [English](#english) | [Français](#français)
 
