@@ -43,3 +43,7 @@ See [LICENSE](LICENSE.md) for details.
 Do you have a YouTube channel or do you know one🤔, so why not add it.
 
 Also, you might want to check out the **[Contributing Guide](CONTRIBUTING.md)** 🤝🏾
+
+Thanks to all contributors 👏🏽
+
+![Contributors](https://contrib.rocks/image?repo=daoodaba975/galsenify)
